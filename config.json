@@ -1,0 +1,22 @@
+{
+    "params":
+    {
+      "local_server":"True",
+      "local_uri": "mysql://root:@localhost/d16technologiesblog",
+      "prod_uri":"",
+      "facebook_id":"https://facebook.com/",
+      "twittrer_id":"https://twitter.com/",
+      "github_id": "https://github.com/",
+      "blog_name": "D16 Technologies",
+      "tag_line": "Heaven for programmers",
+      "gmail_user":"",
+      "gmail_password":"",
+      "about_text": "I'm very introvert & shy person & I don't speak much with others but if someone is talking about Music or Programming I take interest in conversation.",
+      "no_of_posts": 1,
+      "login_image":"login.svg",
+      "admin_user":"1",
+      "admin_password": "1",
+      "upload_location": "C:\\Users\\DJ\\OneDrive\\Learning\\Python\\Flask\\Project-2\\static\\img"
+
+    }
+  }
